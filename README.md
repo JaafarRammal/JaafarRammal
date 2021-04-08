@@ -12,7 +12,7 @@
 
 🔗 https://www.jaafarrammal.com { still building it :') }
 
-I'm interested:
+I'm interested in:
 - Robotics 🤖
 - Full Stack 💻
 - Augmented Reality 👓
