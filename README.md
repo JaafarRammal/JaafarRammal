@@ -10,7 +10,7 @@
 🔙 Former Hardware Engineering Intern @ [ARM Holdings](https://arm.com)<br>
 🔙 Former SWE Intern @ [Schlumberger](https://www.slb.com)
 
-🔗 https://jaafarrammal.com { still building it :') }
+🔗 https://www.jaafarrammal.com { still building it :') }
 
 I'm interested:
 - Robotics 🤖
