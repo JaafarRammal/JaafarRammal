@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Jaafar 👋
 
-<!--
-**JaafarRammal/JaafarRammal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇱🇧 From Lebanon!
 
-Here are some ideas to get you started:
+🎓 Electronics & Information Engineering @ Imperial College 22'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ FDSE Intern @ [Palantir](https://www.palantir.com)<br>
+🖥️ Founder @ [CloseRangeTechnologies](https://closerangetechnologies.co.uk) (early stage startup)
+
+🔙 Former Hardware Engineering Intern @ [ARM Holdings](https://arm.com)<br>
+🔙 Former SWE Intern @ [Schlumberger](https://www.slb.com)
+
+🔗 https://jaafarrammal.com { still building it :') }
+
+I'm interested:
+- Robotics 🤖
+- Full Stack 💻
+- Augmented Reality 👓
+- Hardware Design 📟
+- Computer Vision 🎨
+
