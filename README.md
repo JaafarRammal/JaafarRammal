@@ -14,7 +14,7 @@
 
 I'm interested in:
 - Robotics 🤖
-- Full Stack 💻
+- Full Stack Dev 💻
 - Augmented Reality 👓
 - Hardware Design 📟
 - Computer Vision 🎨
