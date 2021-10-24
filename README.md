@@ -4,11 +4,10 @@
 
 🎓 Electronics & Information Engineering @ Imperial College 22'
 
-🖥️ FDSE Intern @ [Palantir](https://www.palantir.com)<br>
-
-🔙 Founder @CloseRangeTechnologie
+🔙 Former FDSE Intern @ [Palantir](https://www.palantir.com)<br>
+🔙 Former Founder @CloseRangeTechnologie<br>
 🔙 Former Hardware Engineering Intern @ [ARM Holdings](https://arm.com)<br>
-🔙 Former SWE Intern @ [Schlumberger](https://www.slb.com)
+🔙 Former SWE Intern @ [Schlumberger](https://www.slb.com)<br>
 
 🔗 https://www.jaafarrammal.com
 
