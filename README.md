@@ -4,6 +4,7 @@
 
 🎓 Electronics & Information Engineering @ Imperial College 22'
 
+❗️ Part-time SWE @ [Terra](https://tryterra.co)<br>
 🔙 Former FDSE Intern @ [Palantir](https://www.palantir.com)<br>
 🔙 Former Founder @CloseRangeTechnologie<br>
 🔙 Former Hardware Engineering Intern @ [ARM Holdings](https://arm.com)<br>
