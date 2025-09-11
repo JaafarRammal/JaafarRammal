@@ -4,7 +4,7 @@
 
 🎓 Electronics & Information Engineering @ Imperial College 22'
 
-❗️Building something new 👨‍🍳
+❗️Building something new 👨‍🍳<br>
 🔙 Former Full-time FDSE / SWE @ [Palantir](https://www.palantir.com)<br>
 🔙 Former Full-time SWE & Sales @ [Terra (YC 21)](https://tryterra.co)<br>
 🔙 Former Technical Advisor @[DeltaCrypt](https://www.linkedin.com/company/deltacrypt/about/)<br>
